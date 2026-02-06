@@ -1,5 +1,5 @@
 # RCOS_spring26
 - Kevin Lin
-- ![My photo](Screenshot 2025-11-13 014143.png)
+- ![My photo](Screenshot_2025-11-13_014143.png)
 - 2029
 - masterball rcos project
